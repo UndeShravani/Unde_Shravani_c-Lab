@@ -14,4 +14,5 @@ int main(){
     cout<<endl<<"Difference="<<subtract;
     cout<<endl<<"Multiplication="<<multiply;
     cout<<endl<<"Division="<<divide;
+    return 0;
 }
